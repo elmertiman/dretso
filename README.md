@@ -10,11 +10,3 @@ This is a simple To-Do List web app built with vanilla HTML, CSS, and JavaScript
 ## How I Built It
 I started by building the basic HTML structure, then added styling for responsiveness. I focused on DOM manipulation and event handling in vanilla JavaScript to meet the functional requirements.
 
-## Time Taken
-I completed the core features within 2 hours. If I had more time, I would add animations and a dark mode toggle.
-
-## Live Demo
-_(optional: if deployed)_
-
-## GitHub Repository
-[Link to your public repo here]
